@@ -18,8 +18,8 @@ This repository contains the code for the paper *A Novel Generalised Meta-Heuris
 
 **Source Code**
 
-- This repository contains 4 different algorithms in total. Two algorithm ***MAENS***$^{[1]}$ and ***TSA***$^{[2]}$(***RTS****$^{[3]}$) comes from the [Dr. Yi Mei](https://github.com/meiyi1986) and code for these two algorithm is downloaded from [this](https://meiyi1986.github.io/publication/).
-- Algorithms ***ILMA***$^{[4]}$ and ***MASDC***$^{[5]}$ are implemented by ourselves according to their original paper.
+- This repository contains 4 different algorithms in total. Two algorithm ***MAENS***[1] and ***TSA***[2] (***RTS***[3]) comes from the [Dr. Yi Mei](https://github.com/meiyi1986) and code for these two algorithm is downloaded from [this](https://meiyi1986.github.io/publication/).
+- Algorithms ***ILMA***[4] and ***MASDC***[5] are implemented by ourselves according to their original paper.
 - ***Virtual Task*** strategy and ***sequence transfer strategy*** are implemented in `function.c`. ***Service simulator*** is implemented in `simulaor.c`
 - The main function for three experiments discussed in the paper are implemented in `main.c`
 
