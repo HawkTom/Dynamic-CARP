@@ -6,13 +6,14 @@ This repository contains the code for the paper *A Novel Generalised Meta-Heuris
 
 **Reference**
 ```
-@misc{tong2021novel,
-      title={A Novel Generalised Meta-Heuristic Framework for Dynamic Capacitated Arc Routing Problems}, 
-      author={Hao Tong and Leandro L. Minku and Stefan Menzel and Bernhard Sendhoff and Xin Yao},
-      year={2021},
-      eprint={2104.06585},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE}
+@article{tong2022dcarp,
+      year = {2022},
+      note = {Early Access},
+      publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+      pages = {1--15},
+      author = {Hao Tong and Leandro L. Minku and Stefan Menzel and Bernhard Sendhoff and Xin Yao},
+      title = {A Novel Generalised Meta-Heuristic Framework for Dynamic Capacitated Arc Routing Problems},
+      journal = {{IEEE} Transactions on Evolutionary Computation}
 }
 ```
 
